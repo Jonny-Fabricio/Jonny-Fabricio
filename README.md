@@ -32,31 +32,13 @@
 
 ---
 
-### 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonny-Fabricio&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonny-Fabricio&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
-
----
-
 ### 💼 Proyectos destacados
 
 - 🚀 [**Proyecto Innovashop**](https://github.com/Jonny-Fabricio/Proyecto-Innovashop) — Sistema de gestión de productos y ventas usando FastAPI y MySQL.
 - 📘 [**Proyectos académicos**](https://github.com/Jonny-Fabricio/uni) — Repositorio con trabajos y ejercicios del programa de estudios.
-
----
-
-### 📬 Conéctate conmigo
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonny.tuemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
-
-</div>
-
+<p align="center">
+  <i>“Estos proyectos no estan terminado aun.”</i>
+</p>
 ---
 
 <p align="center">
