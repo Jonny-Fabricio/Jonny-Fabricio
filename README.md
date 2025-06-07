@@ -37,9 +37,8 @@
 - 🚀 [**Proyecto Innovashop**](https://github.com/Jonny-Fabricio/Proyecto-Innovashop) — Sistema de gestión de productos y ventas usando FastAPI y MySQL.
 - 📘 [**Proyectos académicos**](https://github.com/Jonny-Fabricio/uni) — Repositorio con trabajos y ejercicios del programa de estudios.
 <p align="center">
-  <i>“Estos proyectos no estan terminado aun.”</i>
+  <i>“Estos proyectos no estan terminado aun”</i>
 </p>
----
 
 <p align="center">
   <i>“La práctica constante y el deseo de aprender son el motor del verdadero crecimiento como desarrollador.”</i> 💡
